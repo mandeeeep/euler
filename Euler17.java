@@ -6,7 +6,9 @@ import sun.rmi.server.Util;
 
 /**
  *
- * @author Mandeep Raj Shrestha
+ * @author Mandeep Raj Shrestha, the solution is just for cases of 1-100(simple), though a simple alteration 
+ * of the extended() can be done for 1-1000, but for more than that a diffrerent module should be added to process
+ * numbers 1000+
  */
 public class Euler17 {
 
